@@ -1,0 +1,20 @@
+body{
+    background-color: white;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+.add-button {
+    margin-top: 10px;
+    width: 200px;
+    border-radius: 6px;
+}
+tfoot {
+    background-color: rgb(144, 211, 234);
+}
